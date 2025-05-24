@@ -25,6 +25,7 @@
 KITE AI TESTNET OZONE
 
 Reward : Potential
+
 Network : KITE TESTNET
 
 Link:
@@ -143,4 +144,5 @@ want to support me for creating another bot ?
 **star** my repo or buy me a coffee on
 
 BYBIT UID : `140173364`
+
 BINANCE UID : `39357434`
