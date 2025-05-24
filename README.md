@@ -41,6 +41,8 @@ https://testnet.gokite.ai?referralCode=6HDIAQ87
 - Multi Account 
 - Support PK and Seed
 - Proxy Support
+- Auto Regist 
+- Auto Commplete Onboarding Quiz
 - Auto Daily Quiz
 - Auto Interact With Agent
 
