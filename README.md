@@ -44,6 +44,8 @@ https://testnet.gokite.ai?referralCode=6HDIAQ87
 - Auto Regist 
 - Auto Commplete Onboarding Quiz
 - Auto Daily Quiz
+- Auto Stake
+- Auto Claim Staking Reward
 - Auto Interact With Agent
 
 
