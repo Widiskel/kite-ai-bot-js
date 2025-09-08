@@ -47,6 +47,7 @@ https://testnet.gokite.ai?referralCode=6HDIAQ87
 - Auto Stake
 - Auto Claim Staking Reward
 - Auto Interact With Agent
+- Auto SWAP
 
 
 ## Setup & Configure BOT
